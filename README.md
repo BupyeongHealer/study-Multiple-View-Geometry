@@ -7,5 +7,5 @@ studying Multiple View Geometry in Computer Vision!
 |No.#|DATE|TOPIC|KEYWORD|LINK|
 |:---:|:---:|:---:|:---:|:---:|
 |01|2021.02.08(Mon)|Linear Algebra|Linear Equation, Group Theory|[Link](  )|
-|02|2021.02.09(Tue)~</br>2021.02.15(Mon)|Variational Methods|Euler-Largrange Equation, Gradient Descent|[Link](https://hello-francis.tistory.com/14)|
+|02|2021.02.09(Tue)~</br>2021.02.15(Mon)|Variational Methods|Euler-Lagrange Equation, Gradient Descent|[Link](https://hello-francis.tistory.com/14)|
 
