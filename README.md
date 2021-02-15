@@ -4,8 +4,8 @@ studying Multiple View Geometry in Computer Vision!
 - Category : Linear Algebra, Variational Method
 - Summary : [tistory](https://hello-francis.tistory.com/category/principles/Multiple%20View%20Geometry)
 
-|No.#|DATE|TITLE|LINK|
-|:---:|:---:|---|:---:|
-|01|2021.02.08(Mon)|Linear Algebra|[Link](  )|
-|02|2021.02.09(Tue)~2021.02.15(Mon)|Variational Methods|[Link](https://hello-francis.tistory.com/14)|
+|No.#|DATE|TOPIC|KEYWORD|LINK|
+|:---:|:---:|:---:|:---:|:---:|
+|01|2021.02.08(Mon)|Linear Algebra|Linear Equation, Group Theory|[Link](  )|
+|02|2021.02.09(Tue)~</br>2021.02.15(Mon)|Variational Methods|Euler-Largrange Equation, Gradient Descent|[Link](https://hello-francis.tistory.com/14)|
 
