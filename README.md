@@ -6,7 +6,7 @@ studying Multiple View Geometry in Computer Vision!
 
 |No.#|DATE|TOPIC|KEYWORD|LINK|
 |:---:|:---:|:---:|:---:|:---:|
-|01|2021.02.08(Mon)|Linear Algebra|Linear Equation, Group Theory|[Link](  )|
+|01|2021.02.08(Mon)|Linear Algebra|Eigenvalue, RANK, SVD|[Link](  )|
 |02|2021.02.09(Tue)~</br>2021.02.15(Mon)|Variational Methods|Euler-Lagrange Equation, Gradient Descent|[Blog](https://hello-francis.tistory.com/14)|
-|02|2021.02.15(Mon)|Variational Multiview Reconstruction|Shape Representation, Shape&Texture Reconstruction, Convex function|[Blog](https://hello-francis.tistory.com/15)|
-
+|03|2021.02.15(Mon)|Variational Multiview Reconstruction|Shape Representation, Shape&Texture Reconstruction, Convex function|[Blog](https://hello-francis.tistory.com/15)|
+|04|2021.02.16(Tue)|Advanced Linear Algebra|Linear Transformation, Group|[Blog](https://hello-francis.tistory.com/16)|
