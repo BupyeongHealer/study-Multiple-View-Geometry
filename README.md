@@ -2,7 +2,7 @@
 studying Multiple View Geometry in Computer Vision!
   
 - Category : Linear Algebra, Variational Method
-- Summary : [tistory](https://hello-francis.tistory.com/category/principles/Multiple%20View%20Geometry)
+- Summary : [tistory blog](https://hello-francis.tistory.com/category/principles/Multiple%20View%20Geometry)
 
 |No.#|DATE|TOPIC|KEYWORD|LINK|
 |:---:|:---:|:---:|:---:|:---:|
